@@ -1,1 +1,7 @@
 # CS320-Software-Test-and-Automation-QA
+
+Ensuring that a program is functional and secure involves rigorously testing the program. This is both to double check that every function does what its supposed to and that it doesn't do anything it isn't. Ideally, a mixture of testing strategies, such as static and dynamic testing, should be utalized with high coverage of the program to account for as many errors as possible. Developing with best practices in mind is also crucial to this, but errors are near impossible to avoid, especially as a program becomes complex.
+
+Interpreting the user's needs is largely a matter of conversing with the client, discovering what they want, and translating this into features and functions. Ideally, client and user feedback can be collected during the development process so that the program can be refined over several passes until it is up to standards, however the client isn't always so involved in the process. In those cases, it's important to keep a well organized and articulated requirements document that can be referred back to during the process, so that the client's vision can be kept in mind during development.
+
+Personally, I'm still finding my approach to designing software. As it is, I still look to design patterns and tutorials to help me figure out how to implement certain ideas, but as I become a stronger developer, I know that designing pseudocode and visualizations is important for getting the feel for how a program will behave.
